@@ -1,0 +1,71 @@
+.box{
+    border: 1px solid lightgray;
+    width: 333px;
+    margin: 10px auto;
+    border-radius: 15px;
+    font-family: sans-serif;
+}
+.img{
+    width:320px;
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-right: 10px;
+    border-radius: 30px;
+    
+}
+.offer{
+    color: white;
+    background-color: rgb(63, 134, 255);
+    position: absolute;
+    bottom: 570px;
+    left:668px;
+    padding-left: 10px;
+    
+}
+.time{
+    background-color: white;
+    padding: 3px;
+    border-radius: 3px;
+    position: absolute;
+    bottom:571px;
+    right: 665px;
+    font-size: small;
+    font-weight: bold;
+}
+.Hotel{
+    margin-top: 5px;
+    padding-left: 5px;
+    margin-bottom: 2px;
+
+}
+.type{
+    padding-left: 5px;
+    color:grey;
+    margin-top: 5px;
+}
+.max{
+    width: 50px;
+    height: 25px;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    position: relative;
+}
+.color{
+    color: grey;
+    font-size: small;
+    position: absolute;
+    left: 723px;
+    top:330px;
+}
+hr{
+    border-color: lightgrey;
+    width: 95;
+}
+.color1{
+    color:grey;
+    font-size: small;
+    position: absolute;
+    left: 723px;
+    top:350px;
+
+}
